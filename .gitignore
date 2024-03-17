@@ -1,0 +1,66 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+/21CSC05-Computer Organization and Architecture-20240316T044649Z-001
+/21CSC09-OPERATING SYSTEMS-20240316T044650Z-001
+/21CSC14 & Mobile Communication-20240316T044653Z-001
+/21CSC22 -  Artificial Intelligence For Industry 4.0-20240316T044655Z-001
+/21CSC30-DATA ANALYTICS AND MODELING TECHNIQUES-20240316T044658Z-001
+/21CSC31 - Machine Learning-20240316T044702Z-001
+/21CSD11 -Theory of computation-20240316T044910Z-001
+/21CSE01-Internet of Things-20240316T044918Z-001
+/21CSE03 Salesforce CRM And Platform-20240316T044942Z-001
+/21CSE05-AWS ACADEMY CLOUD DEVELOPING-20240316T044714Z-001
+/21CSF12-Software Engineering-20240316T044949Z-001
+/21CSF32-NODE.JS AND REACT.JS-20240316T045015Z-001
+/23GES01- Programming For Problem Solving Using C-20240316T045024Z-001
+/21CSF20-COMPILER DESIGN-20240316T044959Z-001
